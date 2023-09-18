@@ -2,6 +2,7 @@
 PARTNERSHIP AGREEMENT FOR DELIVERY OF CASH FUNDS FOR INVESTMENTS  VIA LEDGER TO LEDGER TRANSFER
 ## Procedure Exposition
 >  LEDGER TO LEDGER PROCEDURE EXPOSITION:
+
 It is a cash internal swap operated by Deutsche Bank itself. By Ledger-to-Ledger internal swap transfer, operated for sending payments till the receiver’s floating balance followed by adding security passcodes (Link & Channel Codes) that has to be actively inputted/digitized from the receiver's bank officer (to be aware and accept the incoming cash funds) for posting in the commercial account of the beneficiary and consolidation of the incoming cash funds. A direct Bank Officer to Bank Officer written communication is available by internal Deutsche Bank chat screen in case of technical and mode incompatibility.
 
 **TRANSACTION DETAILS:**
@@ -23,6 +24,7 @@ INVESTMENT PAYMENTS
 
 ## Procedure
 > TRANSACTION PROCEDURE:
+
 5.1. The Party A (Investor) and the Party B (Partner) execute, sign, and seal this agreement, which thereby automatically becomes a full commercial recourse contract.
 
 5.2. The Party B (Partner) registers the signed and sealed agreement and all related agreements like reinvestment and consulting fee agreements with its bank. Partner’s Bank Officer sends Investor’s Bank Officer a letter with information about registration in the bank's system:
