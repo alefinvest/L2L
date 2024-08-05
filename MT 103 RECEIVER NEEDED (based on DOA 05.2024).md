@@ -1,4 +1,4 @@
-# Russian (see English version below)
+# Russian ([go to English version](#english))
 
 ## Тема: Запрос о возможности приёмки MT103 на условиях отправтеля
 
