@@ -4,8 +4,8 @@
     const { exec } = require('child_process');
 
     // Define input and output directories
-    const inputDir = path.resolve(__dirname, '../drush/audio.input_ogg');
-    const outputDir = path.resolve(__dirname, '../drush/audio/output.wav');
+    const inputDir = path.resolve(__dirname, '../drush/audio/input_ogg');
+    const outputDir = path.resolve(__dirname, '../drush/audio/output_wav');
 
     // Ensure output directory exists
     if (!fs.existsSync(outputDir)) {
